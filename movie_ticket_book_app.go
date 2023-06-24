@@ -7,8 +7,6 @@ import (
 
 func main(){
 
-
-
  var conference_name="Go Movies Ticket Application";
  const conference_tickets uint=50;
  var remain_tickets uint=50;
